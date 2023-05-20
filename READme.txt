@@ -1,5 +1,1 @@
-Python 3.10 or above must be installed!
-Internet connection must be available!
-Disable your antivirus/defender!
-
-Run "Builder.bat"
+This is a updated Roblox frames per second (FPS) unlocker, which boosts the FPS by lowering the memory. - GitHub - aryanist/rbxfpsunlocker: This is a updated Roblox frames per second (FPS) unlocker...
